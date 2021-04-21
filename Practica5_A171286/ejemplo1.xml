@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\guill\Documents\UNACH\Noveno\Servicios_Web\Practica5_A171286\ejemplo1.xml"?>
+<autos>
+ <auto>
+ <agencia>Ford</agencia>
+ <modelo>Mustang</modelo>
+ </auto>
+
+<auto>
+ <agencia>Renault</agencia>
+ <modelo>Captur</modelo>
+ </auto>
+
+<auto>
+ <agencia>Audi</agencia>
+ <modelo>r8 v10 Decennium</modelo>
+</auto>
+</autos>
